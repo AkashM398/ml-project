@@ -1,4 +1,4 @@
-# With Machine Learning for classify exucatable file as Is it Malicious or Legitimate?
+# With Machine Learning, find if the executable file is Legitimate or Malicious
 
 ? This approach tries out 5 different classification algorithms,used for prediction and comparing their results
 
